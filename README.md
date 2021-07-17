@@ -1,16 +1,25 @@
-### Hi there 👋
+![Belide Aakash](profile.png "Belide Aakash")
 
-<!--
-**AakashBelide/AakashBelide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://www.linkedin.com/in/belideaakash/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<summary><b>My GitHub Statistics</b></summary>
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AakashBelide&theme=highcontrast&ring=407BFF&fire=407BFF&currStreakLabel=FFFFFF&sideLabels=407BFF&border=FFFFFF" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AakashBelide&hide_title=true&theme=highcontrast&icon_color=407BFF&show_icons=1&border=FFFFFF&title_color=407BFF" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBelide&hide=makefile&hide_title=true&layout=compact&langs_count=6&theme=highcontrast" />
+</p>
+
+<hr/>
+<br/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=AakashBelide&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/AakashBelide/AakashBelide?color=black&logo=github" />
+</p>
